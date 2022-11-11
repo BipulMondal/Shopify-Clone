@@ -10,6 +10,6 @@ Lets Check This.
 I Took Around 2 days to complete this Shopify 
 Clone .
 
-[Netlify Clone]()
+[Netlify Clone](https://app.netlify.com/sites/shopify-clone-live-class/overview)
 
-![badge]()
+![badge](https://img.shields.io/badge/Live--Class-Shopify%20Clone-red)
